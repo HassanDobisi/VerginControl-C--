@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// take the percentage of the student
+var takeGradeByPercentage = new TakeGradeByPercentage
+
+Console.WriteLine("Enter your percentage :");
