@@ -1,4 +1,4 @@
-namespace VERGINCONTROL 
+namespace VERGINCONTROL
 {
     public class functions
     {
