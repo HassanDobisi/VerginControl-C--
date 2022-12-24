@@ -2,7 +2,7 @@ namespace VERGINCONTROL
 {
     public class functions
     {
-        public string TakeGradeByPercentage(percentage)
+        public string TakeGradeByPercentage(int percentage)
         {
             if (percentage>=90 && percentage<=100)
             return "A+";
