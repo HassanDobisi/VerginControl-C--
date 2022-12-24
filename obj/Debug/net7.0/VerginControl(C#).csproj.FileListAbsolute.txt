@@ -3,3 +3,13 @@
 /Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/VerginControl(C#).AssemblyInfoInputs.cache
 /Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/VerginControl(C#).AssemblyInfo.cs
 /Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/VerginControl(C#).csproj.CoreCompileInputs.cache
+/Users/hassan/Desktop/VerginControl(C#)/bin/Debug/net7.0/VerginControl(C#)
+/Users/hassan/Desktop/VerginControl(C#)/bin/Debug/net7.0/VerginControl(C#).deps.json
+/Users/hassan/Desktop/VerginControl(C#)/bin/Debug/net7.0/VerginControl(C#).runtimeconfig.json
+/Users/hassan/Desktop/VerginControl(C#)/bin/Debug/net7.0/VerginControl(C#).dll
+/Users/hassan/Desktop/VerginControl(C#)/bin/Debug/net7.0/VerginControl(C#).pdb
+/Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/VerginControl(C#).dll
+/Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/refint/VerginControl(C#).dll
+/Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/VerginControl(C#).pdb
+/Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/VerginControl(C#).genruntimeconfig.cache
+/Users/hassan/Desktop/VerginControl(C#)/obj/Debug/net7.0/ref/VerginControl(C#).dll
