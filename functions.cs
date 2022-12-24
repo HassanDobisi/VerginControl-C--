@@ -8,7 +8,10 @@ namespace VERGINCONTROL
             return "A+";
             else if (percentage>=80 && percentage <=90)
             return "B+";
-            
+            else if(percentage>=70 &&percentage <=80)
+            return "C+";
+            else if(percentage>=60 && percentage<70)
+            return "D+";
         }
     }
 }
