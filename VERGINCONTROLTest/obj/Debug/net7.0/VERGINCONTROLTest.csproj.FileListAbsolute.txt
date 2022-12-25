@@ -1,0 +1,5 @@
+/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/obj/Debug/net7.0/VERGINCONTROLTest.csproj.AssemblyReference.cache
+/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/obj/Debug/net7.0/VERGINCONTROLTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/obj/Debug/net7.0/VERGINCONTROLTest.AssemblyInfoInputs.cache
+/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/obj/Debug/net7.0/VERGINCONTROLTest.AssemblyInfo.cs
+/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/obj/Debug/net7.0/VERGINCONTROLTest.csproj.CoreCompileInputs.cache
