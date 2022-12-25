@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KM10hGlCJ1CTgyVpDEze78Z24HuWENCd/v3v9LJWY1I2EXslslq+uzcRwztEI+EAREp0tO9H67P057o+/fgFJg==",
+  "dgSpecHash": "RvPq3ohGzYENbFWuS581UDNlVeep9M54+26049IE1yo16NZundLA3biXP/kcjEuidmCMCIPhKkxg4KOwn2Cr3g==",
   "success": true,
-  "projectFilePath": "/Users/hassan/Desktop/VerginControl(C#)/StringLibraryTes/StringLibraryTes.csproj",
+  "projectFilePath": "/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/VERGINCONTROLTest.csproj",
   "expectedPackageFiles": [
     "/Users/hassan/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/hassan/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

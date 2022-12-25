@@ -6777,11 +6777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hassan/Desktop/VerginControl(C#)/StringLibraryTes/StringLibraryTes.csproj",
-      "projectName": "StringLibraryTes",
-      "projectPath": "/Users/hassan/Desktop/VerginControl(C#)/StringLibraryTes/StringLibraryTes.csproj",
+      "projectUniqueName": "/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/VERGINCONTROLTest.csproj",
+      "projectName": "VERGINCONTROLTest",
+      "projectPath": "/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/VERGINCONTROLTest.csproj",
       "packagesPath": "/Users/hassan/.nuget/packages/",
-      "outputPath": "/Users/hassan/Desktop/VerginControl(C#)/StringLibraryTes/obj/",
+      "outputPath": "/Users/hassan/Desktop/VerginControl(C#)/VERGINCONTROLTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hassan/.nuget/NuGet/NuGet.Config"
