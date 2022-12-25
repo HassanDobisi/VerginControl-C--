@@ -12,5 +12,8 @@ public class UnitTest1
 
         //act
         var grade = TakeGradeByPercentage(percentage);
+
+        //assert
+        Assert.That(grade, Is.EqualTo("A+"));
     }
 }
