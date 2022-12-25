@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+using UtilityLibraries;
 namespace StringLibraryTest
 {
     [TestClass]
@@ -8,13 +8,13 @@ namespace StringLibraryTest
         [TestMethod]
         public void TestMethod1()
         {
-                    public void TakeGradeByPercentage_EqualTest() 
+                public void TakeGradeByPercentage_EqualTest() 
         }
             //Asign
             var percentage = 99;
             
             // Act
-            var grade = _gradeCalculator.GetGradeByPercentage(percentage);
+            var grade = TakeGradeByPercentage(percentage);
 
             // Assert
             Assert.That(grade, Is.EqualTo("A"));
