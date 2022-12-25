@@ -10,6 +10,7 @@ public class UnitTest1
         //assert
         var percentage = 90;
 
-        
+        //act
+        var grade = TakeGradeByPercentage(percentage);
     }
 }
