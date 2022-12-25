@@ -7,6 +7,9 @@ public class UnitTest1
     [TestMethod]
     public void TakeGradeByPercentage()
     {
+        //assert
+        var percentage = 90;
+
         
     }
 }
