@@ -5,15 +5,16 @@ namespace VERGINCONTROLTest;
 public class UnitTest1
 {
     [TestMethod]
-    public void TakeGradeByPercentage()
-    {
-        //assert
-        var percentage = 90;
+     public void TakeGradeByPercentage_ReturnsCorrectGrade()
+        {
+            // Arrange
+            var functions = new Functions();
+            var percentage = 85;
 
-        //act
-        var grade = TakeGradeByPercentage(percentage);
+            // Act
+            var grade = functions.TakeGradeByPercentage(percentage);
 
-        //assert
-        assert.that(grade, is.Equalto("A+"));
-    }
+            // Assert
+            Assert.Equal("B+", grade);
+        }
 }
