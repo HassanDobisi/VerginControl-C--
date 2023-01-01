@@ -2,7 +2,7 @@ using System;
 
 namespace VERGINCONTROL
 {
-    public class Functions
+    public class functions
     {
         public string TakeGradeByPercentage(int percentage)
         {
@@ -18,8 +18,6 @@ namespace VERGINCONTROL
             return "F";
             else
             return "Invalid";
-            //this is Hassan
-            //testing with maha
         }
     }
 }
